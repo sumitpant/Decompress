@@ -1,14 +1,24 @@
 {
-  "name": "decompress",
+  "name": "decompression",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^12.7.1",
+    "axios": "^0.21.1",
+    "decompress": "^4.2.1",
+    "decompress-zip": "^0.3.3",
+    "extract-files": "^9.0.0",
+    "extract-zip": "^2.0.1",
+    "file-saver": "^2.0.5",
+    "jszip": "^3.6.0",
+    "jszip-utils": "^0.1.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.2",
+    "unzipper": "^0.10.11",
+    "unzzz": "^0.10.0",
     "web-vitals": "^1.1.0"
   },
   "scripts": {
